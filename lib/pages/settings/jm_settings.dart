@@ -48,7 +48,7 @@ class _JmSettingsState extends State<JmSettings> {
           icon: const Icon(Icons.domain),
           settingsIndex: 17,
           title: "Api Domain",
-          options: ["分流1".tl, "分流2".tl, "分流3".tl, "分流4".tl],
+          options: ["poolcom", "poollife", "proxyxx".tl, "freedom".tl,"hostcc".tl,"node1".tl,"node2".tl,"node3".tl],
           onChanged: () => JmNetwork().loginFromAppdata(),
         ),
         ListTile(
