@@ -18,7 +18,7 @@ String get _jmUA {
   return "Mozilla/5.0 (Linux; Android 13; $_device Build/TQ1A.230305.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5735.196 Safari/537.36";
 }
 
-const _jmVersion = "1.7.2";
+const _jmVersion = "1.7.4";
 
 const _jmAuthKey = "18comicAPPContent";
 
